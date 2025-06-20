@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Purnima Bhattrai</h1>
-<h3 align="center">👋 Hi, I’m Purnima Bhattrai, a passionate Computer Engineering student and web enthusiast💻. I’m always curious and eager to learn new things 🌱, driven by creativity and a love for crafting clean, elegant code✨.</h3>
+<h3 align="center">👋 Hi, I’m Purnima Bhattrai, a passionate Computer Engineering student and web enthusiast💻.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purnimabhattrai&label=Profile%20views&color=0e75b6&style=flat" alt="purnimabhattrai" /> </p>
 
