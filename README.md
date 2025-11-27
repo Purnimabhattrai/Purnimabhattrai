@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [(https://www.purnimabhattrai.com.np/)]
+- 👨‍💻 All of my projects are available at https://www.purnimabhattrai.com.np
 
 - 📫 How to reach me **purnimabhattrai.72@gmail.com**
 
