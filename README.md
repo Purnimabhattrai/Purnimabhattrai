@@ -1,12 +1,12 @@
-<!-- =========================
-        PROFILE HEADER
-========================= -->
+<!-- ===================================================== -->
+<!--                 GITHUB PROFILE README                 -->
+<!-- ===================================================== -->
 
 <h1 align="center">Hi 👋, I'm Purnima Bhattrai</h1>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=💻+Computer+Engineering+Student;🌐+Web+Enthusiast;⚡+Passionate+Frontend+Learner;🚀+Future+Full+Stack+Developer" 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=💻+Computer+Engineering+Student;🌐+Web+Enthusiast;⚡+Passionate+Frontend+Learner;🚀+Future+Full+Stack+Developer" 
     alt="Typing Animation"
   />
 </p>
@@ -26,8 +26,13 @@
 - 💡 Interested in **UI/UX Design & Creative Web Development**
 - 👨‍💻 Portfolio:  
   **https://www.purnimabhattrai.com.np**
+
 - 📫 Reach me at:  
   **purnimabhattrai.72@gmail.com**
+
+- ⚡ Fun fact:  
+  I enjoy building aesthetic and interactive websites
+
 ---
 
 # 🌐 Connect With Me
@@ -92,15 +97,15 @@
 
 <p align="center">
 
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=purnimabhattrai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7"
-  />
+<img 
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api?username=purnimabhattrai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&rank_icon=github"
+/>
 
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=purnimabhattrai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7"
-  />
+<img 
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=purnimabhattrai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7"
+/>
 
 </p>
 
@@ -110,7 +115,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=purnimabhattrai&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" 
+    src="https://streak-stats.demolab.com?user=purnimabhattrai&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" 
   />
 </p>
 
@@ -135,8 +140,24 @@
 </p>
 
 ---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/purnimabhattrai/purnimabhattrai/output/github-contribution-grid-snake.svg" 
+    alt="Snake animation"
+  />
+</p>
+
+---
+
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=120&section=footer"
   />
 </p>
+
+<!-- ===================================================== -->
+<!--                    END OF README                      -->
+<!-- ===================================================== -->
