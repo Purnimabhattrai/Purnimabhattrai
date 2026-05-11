@@ -3,11 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=💻+Computer+Engineering+Student;🌐+Web+Enthusiast;⚡+Passionate+Frontend+Learner;🚀+Future+Full+Stack+Developer" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=purnimabhattrai&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="profile views"/>
-</p>
-
 ---
 
 # 💫 About Me
@@ -103,15 +98,6 @@
 </p>
 
 ---
-
-# ✨ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 </p>
