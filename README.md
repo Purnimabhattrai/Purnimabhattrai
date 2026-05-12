@@ -29,10 +29,6 @@
 
 - 📫 Reach me at:  
   **purnimabhattrai.72@gmail.com**
-
-- ⚡ Fun fact:  
-  I enjoy building aesthetic and interactive websites
-
 ---
 
 # 🌐 Connect With Me
