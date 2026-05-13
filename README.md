@@ -90,22 +90,22 @@
 ---
 
 # 📊 GitHub Stats
-
 <p align="center">
 
 <img 
-  height="180em" 
- src="https://github-readme-stats-sigma-five.vercel.app/api?username=Purnimabhattrai"&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&rank_icon=github"
+  height="180em"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Purnimabhattrai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&rank_icon=github"
 />
 
 <img 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=purnimabhattrai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7"
+  height="180em"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Purnimabhattrai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7"
 />
 
 </p>
 
 ---
+
 
 # 🔥 GitHub Streak
 
