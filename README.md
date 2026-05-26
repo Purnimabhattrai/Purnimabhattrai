@@ -158,8 +158,3 @@
 <!--                    END OF README                      -->
 <!-- ===================================================== -->
 
-
-
-
-
-why is my github trophy and  contribution not working
