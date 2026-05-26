@@ -131,7 +131,7 @@
 
 <p align="center">
   <img 
-    src="[https://github-profile-trophy.vercel.app/?username=purnimabhattra](https://github-profile-trophy.vercel.app/?username=purnimabhattrai&theme=algolia&no-frame=true&row=1&column=6)
+    src="https://github-profile-trophy.vercel.app/?username=purnimabhattrai&theme=algolia&no-frame=true&row=1&column=6" 
   />
 </p>
 
@@ -140,8 +140,8 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img [
-    src=(https://github-readme-activity-graph.vercel.app/graph?username=purnimabhattrai&theme=react-dark&hide_border=true) 
+  <img 
+    src="https://raw.githubusercontent.com/purnimabhattrai/purnimabhattrai/output/github-contribution-grid-snake.svg" 
     alt="Snake animation"
   />
 </p>
@@ -157,3 +157,9 @@
 <!-- ===================================================== -->
 <!--                    END OF README                      -->
 <!-- ===================================================== -->
+
+
+
+
+
+why is my github trophy and  contribution not working
