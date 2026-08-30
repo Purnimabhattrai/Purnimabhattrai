@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=160&section=header" width="100%"/>
 
-<h1 align="center">Hi there, I'm Purnima Bhattrai! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /></h1>
+<h1 align="center">Hi there, I'm Purnima Bhattrai! <img src="https://media.giphy.com/media/hvRJCLFzcasr14ia7z/giphy.gif" width="35" /></h1>
 
 <img 
   src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=%F0%9F%92%BB+Computer+Engineering+Student;%F0%9F%8C%90+Web+%26+UI%2FUX+Enthusiast;%E2%9A%A1+Passionate+Frontend+Learner;%F0%9F%9A%80+Future+Full+Stack+Developer" 
@@ -26,7 +26,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="30" height="30" /> A Bit About Me
+## 🌟 A Bit About Me
 
 - 🎓 Computer Engineering student at **Nepal College of Information Technology**
 - 🌱 Currently deepening my skills in **React & Modern Frontend Development**
@@ -38,7 +38,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" height="30" /> My Contribution Graph Fights Back
+## 🐍 My Contribution Graph Fights Back
 
 <div align="center">
   <picture>
@@ -50,7 +50,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> Tech Arsenal
+## 💻 Tech Arsenal
 
 <div align="center">
 
@@ -70,7 +70,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=purnimabhattrai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&rank_icon=github&cache_seconds=86400" />
@@ -85,7 +85,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%20Hit.png" alt="Direct Hit" width="30" height="30" /> Contribution Activity
+## 🎯 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=purnimabhattrai&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" />
@@ -93,7 +93,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" height="30" /> GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=purnimabhattrai&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15" />
