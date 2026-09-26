@@ -104,28 +104,18 @@
 ## 🔗 Connect with Me
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" align="center" style="border-collapse: collapse; border: none; background: transparent;">
-    <tr style="border: none; background: transparent;">
-      <td align="center" style="border: none; background: transparent; padding-right: 30px;">
-        <a href="https://www.linkedin.com/in/purnima-bhattrai-aba922356/" target="_blank">
-          <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" width="50" height="50" alt="LinkedIn" />
-        </a>&nbsp;&nbsp;
-        <a href="https://x.com/Purnima2062" target="_blank">
-          <img src="https://img.icons8.com/ios-filled/50/ffffff/twitter-x.png" width="46" height="46" alt="X" />
-        </a>&nbsp;&nbsp;
-        <a href="mailto:purnimabhattrai.72@gmail.com" target="_blank">
-          <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="50" height="50" alt="Gmail" />
-        </a>&nbsp;&nbsp;
-        <a href="https://www.purnimabhattrai.com.np" target="_blank">
-          <img src="https://img.icons8.com/color/48/000000/domain--v1.png" width="50" height="50" alt="Website" />
-        </a>
-      </td>
-      <td align="center" style="border: none; background: transparent;">
-        <!-- Beautiful Coding Animation -->
-        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="220" alt="Coding Animation" style="border-radius: 10px;" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://www.linkedin.com/in/purnima-bhattrai-aba922356/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/Purnima2062" target="_blank">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:purnimabhattrai.72@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.purnimabhattrai.com.np" target="_blank">
+    <img src="https://img.shields.io/badge/Website-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </div>
 
 <br/>
@@ -135,7 +125,3 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=123E6E&height=120&section=footer" width="100%" />
-
-<!-- ===================================================== -->
-<!--                    END OF README                     -->
-<!-- ===================================================== -->
