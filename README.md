@@ -40,11 +40,6 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" height="30" /> My Contribution Graph Fights Back
 
-<!--
-  IMPORTANT: this block only renders once the snake.yml workflow (included separately)
-  has run at least once in this repo and pushed to the "output" branch.
-  Until then, GitHub will show a broken image here — that's expected on first setup.
--->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/purnimabhattrai/purnimabhattrai/output/github-contribution-grid-snake-dark.svg">
@@ -77,7 +72,6 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> GitHub Stats
 
-<!-- If these look broken, the vercel.app services are almost certainly rate-limited/down — retry later. -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=purnimabhattrai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&rank_icon=github&cache_seconds=86400" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purnimabhattrai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&cache_seconds=86400" />
@@ -131,7 +125,3 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=123E6E&height=120&section=footer" width="100%" />
-
-<!-- ===================================================== -->
-<!--                    END OF README                     -->
-<!-- ===================================================== -->
